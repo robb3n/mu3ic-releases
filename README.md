@@ -1,6 +1,6 @@
 # Mu3ic 发布仓库
 
-[Mu3ic](https://robb3n.site/projects/mu3ic/) 是一个连接自建 [Navidrome](https://www.navidrome.org/) / Subsonic 服务器的 Android 音乐播放器。它是播放器软件，**不提供、不分发任何音乐**，只播放你自己服务器里的曲库。
+[Mu3ic](https://mu3ic.xyz/) 是一个连接自建 [Navidrome](https://www.navidrome.org/) / Subsonic 服务器的 Android 音乐播放器。它是播放器软件，**不提供、不分发任何音乐**，只播放你自己服务器里的曲库。
 
 **本仓库只放发布的安装包，不含任何源码**，也不接收 issue、讨论或 PR。
 
@@ -35,6 +35,6 @@ App 内置更新检查，会按你在设置里选的通道提示新版本，从�
 
 基础版免费，是一个完整的流播放器。下载库、混音、桌面小组件等部分功能（Pro）可在 App 内解锁，需要激活码。
 
-## 项目主页与反馈
+## 项目主页
 
-项目主页：<https://robb3n.site/projects/mu3ic/>，使用问题、建议请到页底评论区留言。
+<https://mu3ic.xyz/>：介绍、下载、安装说明和隐私说明。反馈渠道开通后会写在主页上。
