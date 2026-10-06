@@ -1,3 +1,5 @@
+[![Mu3ic：你整理的曲库，值得一个好播放器](assets/banner.jpg)](https://mu3ic.xyz/)
+
 # Mu3ic 发布仓库
 
 [Mu3ic](https://mu3ic.xyz/) 是一个连接自建 [Navidrome](https://www.navidrome.org/) / Subsonic 服务器的 Android 音乐播放器。它是播放器软件，**不提供、不分发任何音乐**，只播放你自己服务器里的曲库。
